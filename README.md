@@ -65,7 +65,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-![image](https://github.com/utkarshsinh/Todo-FullStack/assets/107430204/28c84e8f-00a4-4fc3-b08a-9f920299f539)
+![image](https://github.com/utkarshsinh/Todo-FullStack/assets/107430204/722c20ad-8ca9-4866-a99c-5bb714bc6ffd)
+
 
 
 ### `npm run build` fails to minify
